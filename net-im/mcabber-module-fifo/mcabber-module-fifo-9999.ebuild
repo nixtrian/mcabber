@@ -6,17 +6,16 @@ EAPI="2"
 
 inherit cmake-utils eutils git
 
-EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-marking"
+EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-fifo"
 EGIT_BRANCH="master"
 
-DESCRIPTION="marking_description"
+DESCRIPTION="fifo_description"
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS="~x86 ~amd64"
-RDEPEND=">net-im/mcabber-0.9.10[modules]
-          net-im/mcabber-module-pep"
+RDEPEND=">net-im/mcabber-0.9.10[modules]"
 
 DEPEND="${RDEPEND}"
 

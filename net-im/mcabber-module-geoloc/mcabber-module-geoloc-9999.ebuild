@@ -6,10 +6,10 @@ EAPI="2"
 
 inherit cmake-utils eutils git
 
-EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-marking"
+EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-geoloc"
 EGIT_BRANCH="master"
 
-DESCRIPTION="marking_description"
+DESCRIPTION="geoloc_description"
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"
