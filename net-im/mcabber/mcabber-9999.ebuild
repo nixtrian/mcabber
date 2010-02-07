@@ -4,7 +4,6 @@ inherit flag-o-matic eutils mercurial
 
 DESCRIPTION="A small Jabber console client with various features, like MUC, SSL, PGP"
 HOMEPAGE="http://mcabber.com/"
-#SRC_URI="http://mcabber.com/files/${P}.tar.bz2"
 EHG_REPO_URI="http://mcabber.com/hg"
 S=hg/mcabber
 
@@ -15,7 +14,6 @@ KEYWORDS="~alpha ~amd64 ~mips ~ppc ~ppc64 ~sparc ~x86"
 IUSE="crypt otr spell ssl modules"
 
 LANGS="de en fr nl pl uk ru"
-# localized help versions are installed only, when LINGUAS var is set
 for i in ${LANGS}; do
 	IUSE="${IUSE} linguas_${i}"
 done;
