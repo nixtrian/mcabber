@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <layman>
-  <overlay type="git" status="unofficial" name="mcabber-dev"
+  <overlay type="git" status="unofficial" name="mcabber"
     contact="nixtrian@gmail.com" src="git://github.com/nixtrian/mcabber.git">
     <link>http://github.com/nixtrian/mcabber</link>
     <description>
