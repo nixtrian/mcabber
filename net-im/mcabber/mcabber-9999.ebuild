@@ -10,7 +10,6 @@ S=hg/mcabber
 
 LICENSE="GPL-2"
 SLOT="0"
-KEYWORDS="~alpha ~amd64 ~mips ~ppc ~ppc64 ~sparc ~x86"
 
 IUSE="crypt otr spell ssl modules"
 
