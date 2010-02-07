@@ -16,7 +16,7 @@ LICENSE="GPL-3"
 SLOT="0"
 
 RDEPEND=">net-im/mcabber-0.9.10[modules]
-         net-im/mcabber-module-mpd"
+         net-im/mcabber-module-tune"
 
 DEPEND="${RDEPEND}"
 
