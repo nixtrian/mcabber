@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<layman>
+  <overlay type="git" status="unofficial" name="mcabber-dev"
+    contact="nixtrian@gmail.com" src="git://github.com/nixtrian/mcabber.git">
+    <link>http://github.com/nixtrian/mcabber</link>
+    <description>
+        MCabber development version and modules ebuilds
+    </description>
+  </overlay>
+</layman>
