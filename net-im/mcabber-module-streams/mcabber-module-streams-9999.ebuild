@@ -15,7 +15,8 @@ HOMEPAGE="http://isbear.unixzone.org.ua/source"
 LICENSE="GPL-3"
 SLOT="0"
 
-RDEPEND=">net-im/mcabber-0.9.10[modules]"
+RDEPEND=">net-im/mcabber-0.9.10[modules]
+	 net-im/mcabber-module-disco"
 
 DEPEND="${RDEPEND}"
 
