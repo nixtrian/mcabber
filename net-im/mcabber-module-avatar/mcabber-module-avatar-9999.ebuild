@@ -17,7 +17,8 @@ SLOT="0"
 
 RDEPEND=">net-im/mcabber-0.9.10[modules]
           net-im/mcabber-module-pep
-          media-libs/aalib"
+          media-libs/aalib
+          media-libs/libpng"
 
 DEPEND="${RDEPEND}"
 
