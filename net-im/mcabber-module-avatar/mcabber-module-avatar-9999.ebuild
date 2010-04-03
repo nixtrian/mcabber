@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-avatar"
 EGIT_BRANCH="master"
 
-DESCRIPTION="avatar_description"
+DESCRIPTION="Mcabber module, implementing PEP avatars."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

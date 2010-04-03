@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-eventcmd"
 EGIT_BRANCH="master"
 
-DESCRIPTION="eventcmd_description"
+DESCRIPTION="(deprecated) Modular implementation of mcabber eventcmd."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

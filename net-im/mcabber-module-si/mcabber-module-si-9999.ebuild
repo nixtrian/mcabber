@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-si"
 EGIT_BRANCH="master"
 
-DESCRIPTION="si_description"
+DESCRIPTION=""
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

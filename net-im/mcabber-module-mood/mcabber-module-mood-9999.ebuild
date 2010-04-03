@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-mood"
 EGIT_BRANCH="master"
 
-DESCRIPTION="mood_description"
+DESCRIPTION="Mcabber module for PEP mood events."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

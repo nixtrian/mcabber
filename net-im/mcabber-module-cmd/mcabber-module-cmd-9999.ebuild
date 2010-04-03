@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-cmd"
 EGIT_BRANCH="master"
 
-DESCRIPTION="cmd_description"
+DESCRIPTION="Mcabber module for sending command output to your buddy."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

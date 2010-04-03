@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-activity"
 EGIT_BRANCH="master"
 
-DESCRIPTION="activity_description"
+DESCRIPTION="Mcabber module for PEP activity."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

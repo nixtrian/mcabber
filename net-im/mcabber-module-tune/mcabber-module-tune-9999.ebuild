@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-tune"
 EGIT_BRANCH="master"
 
-DESCRIPTION="tune_description"
+DESCRIPTION="Mcabber module for PEP tune notification events."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

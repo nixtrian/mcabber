@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-lua"
 EGIT_BRANCH="master"
 
-DESCRIPTION="lua_description"
+DESCRIPTION="Mcabber module for lua scripting."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

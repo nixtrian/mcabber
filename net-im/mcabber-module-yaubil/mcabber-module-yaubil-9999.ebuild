@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-yaubil"
 EGIT_BRANCH="master"
 
-DESCRIPTION="yaubil_description"
+DESCRIPTION="Mcabber's Yet Another Useless Built-In Language module."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-marking"
 EGIT_BRANCH="master"
 
-DESCRIPTION="marking_description"
+DESCRIPTION="Mcabber module, allowing operations over multiple marked buddies."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

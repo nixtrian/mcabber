@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-mpd"
 EGIT_BRANCH="master"
 
-DESCRIPTION="mpd_description"
+DESCRIPTION="Mcabber module to publish your MPD music via PEP."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-urlopen"
 EGIT_BRANCH="master"
 
-DESCRIPTION="urlopen_description"
+DESCRIPTION="Mcabber module to gather urls from incoming messages and ekecute handler command."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

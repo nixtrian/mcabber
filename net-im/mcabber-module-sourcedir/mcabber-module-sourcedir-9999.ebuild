@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-sourcedir"
 EGIT_BRANCH="master"
 
-DESCRIPTION="sourcedir_description"
+DESCRIPTION="(deprecated) Mcabber module, allowing to source all files in directory."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

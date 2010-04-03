@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-streams"
 EGIT_BRANCH="master"
 
-DESCRIPTION="streams_description"
+DESCRIPTION="Mcabber module, implementing IBB and Bytestreams transfer methods."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

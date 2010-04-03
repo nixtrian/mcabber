@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-geoloc"
 EGIT_BRANCH="master"
 
-DESCRIPTION="geoloc_description"
+DESCRIPTION="Mcabber module for PEP geolocation events."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-notifymsg"
 EGIT_BRANCH="master"
 
-DESCRIPTION="notifymsg_description"
+DESCRIPTION="Simple module to print message notifications to log window."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

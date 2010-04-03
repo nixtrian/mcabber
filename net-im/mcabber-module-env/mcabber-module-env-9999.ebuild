@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-env"
 EGIT_BRANCH="master"
 
-DESCRIPTION="env_description"
+DESCRIPTION="Debugging mcabber module to tamper with mcabber environment."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-fifo"
 EGIT_BRANCH="master"
 
-DESCRIPTION="fifo_description"
+DESCRIPTION="(deprecated) Modular implementation of mcabber fifo command pipe."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

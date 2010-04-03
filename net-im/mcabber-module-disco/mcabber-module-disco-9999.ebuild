@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-disco"
 EGIT_BRANCH="master"
 
-DESCRIPTION="disco_description"
+DESCRIPTION="Mcabber module to send service discovery requests."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"

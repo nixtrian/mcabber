@@ -9,7 +9,7 @@ inherit cmake-utils eutils git
 EGIT_REPO_URI="http://isbear.unixzone.org.ua/source/mcabber-beep"
 EGIT_BRANCH="master"
 
-DESCRIPTION="beep_description"
+DESCRIPTION="(deprecated) Simple example mcabber module (beeper)."
 HOMEPAGE="http://isbear.unixzone.org.ua/source"
 
 LICENSE="GPL-3"
