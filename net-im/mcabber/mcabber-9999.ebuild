@@ -23,7 +23,7 @@ RDEPEND="ssl? ( >=dev-libs/openssl-0.9.7-r1 )
 	spell? ( app-text/aspell )
 	>=dev-libs/glib-2.0.0
 	sys-libs/ncurses
-	=net-libs/loudmouth-1.4.3"
+	>=net-libs/loudmouth-1.4.3"
 
 DEPEND="${RDEPEND}
 	dev-util/pkgconfig"
